@@ -5,5 +5,7 @@ This course dives deep into the application of machine learning techniques for a
 # Key Highlights:
 
 Machine learning in credit risk assessment
+
 Building predictive credit risk models
+
 Enhancing decision-making processes with data-driven insights
